@@ -290,7 +290,7 @@ def load_complete_data(year,
 
 
 if __name__ == '__main__':
-    year = '2022'
+    year = '2021'
 
     # Para descargar el resumen de la data
     #generateDatasets(year=year, total_pages=getPages_per_year(year))
